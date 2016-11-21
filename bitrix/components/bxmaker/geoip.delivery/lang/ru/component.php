@@ -1,0 +1,12 @@
+<?
+$PARTNER_COMPONENT_ID = 'BXMAKER.GEOIP.DELIVERY';
+
+$MESS[$PARTNER_COMPONENT_ID . "_MODULE_NOT_INSTALLED"] = 'Модуль «Определение местоположения по IP 2.0» не установлен';
+
+$MESS[$PARTNER_COMPONENT_ID . "DELIVER_BLOCK_PROLOG"] = 'Доставка в ваш город - #CITY#';
+$MESS[$PARTNER_COMPONENT_ID . "DELIVER_BLOCK_EPILOG"] = 'Бесплатная доставка от 5000 руб.';
+$MESS[$PARTNER_COMPONENT_ID . "DEFAULT_CITY"] = 'Москва';
+$MESS[$PARTNER_COMPONENT_ID . "PERIOD_OT"] = ' от ';
+$MESS[$PARTNER_COMPONENT_ID . "PERIOD_DO"] = ' до ';
+
+
